@@ -150,7 +150,7 @@ I'm a **full-stack developer** passionate about creating innovative web applicat
 - Docker containerization and orchestration
 - Nginx configuration and SSL/TLS setup
 - CI/CD pipelines with GitHub Actions
-- Cloud deployment (Hetzner, Vercel, Netlify)
+- Cloud deployment (Hetzner, GCP, Heroku)
 
 ### 📱 Cross-Platform Development
 - React Native mobile apps (iOS/Android)
