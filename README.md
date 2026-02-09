@@ -6,8 +6,6 @@
 
 *Building production-ready applications with modern technologies and AI*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-marcchesnel.com-blue?style=for-the-badge)](https://marcchesnel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marcchesnel)
 
 </div>
 
