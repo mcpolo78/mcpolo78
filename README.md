@@ -1,4 +1,4 @@
-# Hi there, I'm Marc Chesnel 👋
+# Hi there, I'm Marc 👋
 
 <div align="center">
 
@@ -172,9 +172,6 @@ I'm a **full-stack developer** passionate about creating innovative web applicat
 
 **Let's build something amazing together!**
 
-[![Email](https://img.shields.io/badge/Email-marc%40chesnel.com-red?style=for-the-badge&logo=gmail)](mailto:contact@marcchesnel.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-marcchesnel.com-blue?style=for-the-badge&logo=google-chrome)](https://marcchesnel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc_Chesnel-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marcchesnel)
 
 </div>
 
