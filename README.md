@@ -31,7 +31,7 @@ Un back-office Next.js pour la responsable planning, une app React Native (Expo)
 
 `Next.js 16` `React Native` `Expo` `TypeScript` `GraphQL` `Prisma` `PostgreSQL` `Playwright` `Turborepo`
 
-👉 [Code et documentation](https://github.com/mcpolo78/ronde) · [Étude de cas](https://marcchesnel.vercel.app/projets/ronde) · [Démo en ligne](https://ronde-six.vercel.app) · [5 fiches de décision d'architecture](https://github.com/mcpolo78/ronde/tree/main/docs/adr)
+👉 [Code et documentation](https://github.com/mcpolo78/ronde) · [Étude de cas](https://marcchesnel.vercel.app/projets/ronde) · [Démo en ligne](https://ronde-app.vercel.app) · [5 fiches de décision d'architecture](https://github.com/mcpolo78/ronde/tree/main/docs/adr)
 
 ---
 
