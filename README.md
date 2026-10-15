@@ -72,4 +72,4 @@ Le reste est sur mon [portfolio](https://marcchesnel.vercel.app#portfolio).
 ## 📫 Me contacter
 
 Je suis ouvert aux opportunités de développeur Front-end / Full Stack (Next.js, React Native).
-Le plus simple : le [formulaire de contact de mon portfolio](https://marcchesnel.vercel.app#contact).
+Le plus simple : [LinkedIn](https://www.linkedin.com/in/marc-che/), ou la [section contact de mon portfolio](https://marcchesnel.vercel.app/#contact).
