@@ -1,184 +1,75 @@
-# Hi there, I'm Marc 👋
+# Salut, moi c'est Marc 👋
 
 <div align="center">
 
-### Full-Stack Developer | AI Integration Specialist | React Expert
+### Développeur Full Stack · Next.js · React Native · TypeScript
 
-*Building production-ready applications with modern technologies and AI*
+*Je conçois, développe, teste et déploie des applications web et mobiles, de la discovery à la production.*
 
+[**Portfolio**](https://marcchesnel.vercel.app) · [**Étude de cas Ronde**](https://marcchesnel.vercel.app/projets/ronde)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⭐ Projet phare : Ronde
 
-I'm a **full-stack developer** passionate about creating innovative web applications, integrating cutting-edge AI technologies, and delivering production-ready solutions. With expertise spanning **React, Next.js, Python, and AI/ML integration**, I build everything from complex data visualization platforms to immersive 3D experiences.
+**Planifier, suivre et clôturer les interventions de techniciens, même sans réseau.**
+Un back-office Next.js pour la responsable planning, une app React Native (Expo) pour les techniciens, une API GraphQL commune. Conçu, développé, testé et déployé de bout en bout.
 
-- 🎯 **Specialized in**: AI-powered applications, full-stack web development, and modern React ecosystems
-- 🔭 **Currently working on**: AI image generation platform, educational AI tools, and data visualization apps
-- 🌱 **Always learning**: Latest AI models, advanced 3D graphics, and cloud-native architectures
-- 💡 **Passionate about**: Clean code, TypeScript, and building tools that make a difference
+<p align="center">
+  <a href="https://github.com/mcpolo78/ronde">
+    <img src="https://raw.githubusercontent.com/mcpolo78/ronde/main/docs/screenshots/web-planning.png" alt="Planning de la semaine du back-office Ronde" width="720">
+  </a>
+</p>
+
+- 📴 **Hors ligne** : file d'opérations sur le téléphone, rejouée dans l'ordre et sans doublon au retour du réseau ; conflits signalés au technicien
+- 🔁 **Mêmes règles partout** : règles métier en TypeScript pur, partagées par l'API, le web et le mobile ; requêtes GraphQL typées de bout en bout
+- ✍️ **Signature du client** au doigt, reconstruite en SVG côté serveur (aucun fichier client servi tel quel)
+- ♿ **Accessible et rapide** : audit WCAG 2.2 AA (axe-core) dans la CI, Lighthouse 100, alternative clavier au glisser-déposer
+- 🧪 **Testé** : tests unitaires, E2E Playwright dont un scénario hors ligne complet, CI GitHub Actions avec une vraie base PostgreSQL
+
+`Next.js 16` `React Native` `Expo` `TypeScript` `GraphQL` `Prisma` `PostgreSQL` `Playwright` `Turborepo`
+
+👉 [Code et documentation](https://github.com/mcpolo78/ronde) · [Étude de cas](https://marcchesnel.vercel.app/projets/ronde) · [Démo en ligne](https://ronde-six.vercel.app) · [5 fiches de décision d'architecture](https://github.com/mcpolo78/ronde/tree/main/docs/adr)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Backend & Database
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge)
-![Stability AI](https://img.shields.io/badge/Stability_AI-000000?style=for-the-badge)
-
-### Mobile & Other
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🎨 Featured Projects
+## 🎨 Autres projets
 
-### 🤖 [DreamExplorer](https://github.com/marcchesnel/dreamexplorer)
-**AI Image Generation Platform** | *React, Node.js, Stability AI, Docker*
-- Full-stack application for AI-powered image generation using Stable Diffusion
-- Redux Toolkit state management, JWT authentication, admin panel
-- Production deployment with Docker, Nginx, and CI/CD pipeline
-- **Live**: [dreamexplorer.marcchesnel.com](https://dreamexplorer.marcchesnel.com)
+| Projet | Description | Technologies | Liens |
+|---|---|---|---|
+| **AI Knowledge Tutor** | Transforme des documents (PDF, DOCX, Markdown) en résumés, quiz, flashcards et chatbot Q&A | React, FastAPI, OpenAI | [Code](https://github.com/mcpolo78/ai-knowledge-tutor) |
+| **Data Visualizer** | Import CSV/Excel et suggestions de graphiques par GPT-4o-mini, rendu interactif | FastAPI, OpenAI, Pandas | [Code](https://github.com/mcpolo78/data-visualiser) |
+| **Stellar Field** | Galaxie de particules en 3D interactive | React Three Fiber, TypeScript | [Démo](https://stellar-field.vercel.app) · [Code](https://github.com/mcpolo78/stellar-field) |
+| **Restaurants Deux-Sèvres** | Annuaire des meilleurs restaurants du département | Next.js | [Démo](https://restaurants-deux-sevres.vercel.app) · [Code](https://github.com/mcpolo78/restaurants-deux-sevres) |
+| **Blind test** | Blind test de dessins animés | Vue | [Démo](https://blind-test-mc.vercel.app) · [Code](https://github.com/mcpolo78/blind-test) |
 
-### 📚 [AI Knowledge Tutor](https://github.com/marcchesnel/ai-knowledge-tutor)
-**Intelligent Learning Platform** | *React, Python FastAPI, OpenAI/Claude*
-- Transforms course documents into interactive learning materials
-- AI-generated summaries, quizzes, flashcards, and chatbot Q&A
-- Processes PDF, DOCX, and Markdown with spaced repetition learning
-- Mobile companion app built with React Native + Expo
-
-### 📊 [Data Visualizer](https://github.com/marcchesnel/data-visualizer)
-**AI-Powered Data Analytics** | *Next.js 15, FastAPI, OpenAI, Recharts*
-- Drag-and-drop CSV/Excel visualization with AI chart suggestions
-- Interactive data exploration with modern charting library
-- Production-ready with Docker, SSL/HTTPS, Nginx reverse proxy
-- **Live**: [data.marcchesnel.com](https://data.marcchesnel.com)
-
-### 🎮 [Space Explorer Game](https://github.com/marcchesnel/vanilla-js-game)
-**Canvas-Based Shooter** | *Vanilla JavaScript, HTML5 Canvas*
-- Pure JavaScript space shooter with particle effects and animations
-- Multiple enemy types, scoring system, responsive design
-- Built with ES6 classes, no frameworks
-
-### 🌌 [Stellar Field](https://github.com/marcchesnel/stellar-field)
-**3D Galaxy Visualization** | *React Three Fiber, TypeScript, shadcn/ui*
-- Immersive 3D particle systems and galaxy visualizations
-- Advanced Three.js integration with React
-- Complete shadcn/ui component library with Radix UI
-
-### 🔒 [SafeMail Guard](https://github.com/marcchesnel/chrome-extension-anti-scam)
-**Anti-Phishing Extension** | *Chrome Extension Manifest V3*
-- Gmail phishing and scam protection browser extension
-- Pattern detection, threat warnings, security analysis
-- Built with modern Chrome Extension APIs
-
-### 🍴 [Restaurants Deux-Sèvres](https://github.com/marcchesnel/restaurants-deux-sevres)
-**Restaurant Directory** | *Next.js 13, Firebase, Google Maps*
-- Full-featured restaurant listings with reviews and ratings
-- Maps integration, authentication with NextAuth
-- Storybook component library for UI documentation
-
-### 🧠 [Interactive Mindmap](https://github.com/marcchesnel/mindmap)
-**Mind Mapping Tool** | *Next.js 15, React Flow, Prisma*
-- Interactive mind maps with zoom/pan controls
-- Database persistence with Prisma ORM and SQLite
-- Customizable nodes and relationships
+Le reste est sur mon [portfolio](https://marcchesnel.vercel.app#portfolio).
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Me contacter
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcchesnel&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcchesnel&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 💼 What I Can Do For You
-
-### 🎯 Full-Stack Web Development
-- Modern React/Next.js applications with TypeScript
-- RESTful APIs with Node.js or Python FastAPI
-- Database design and optimization (SQL/NoSQL)
-- Responsive, accessible UI with Tailwind CSS
-
-### 🤖 AI/ML Integration
-- OpenAI GPT-4, Claude, Stability AI integration
-- Document processing and analysis
-- AI-powered data visualization
-- Custom AI-driven features for your applications
-
-### 🚀 Production Deployment
-- Docker containerization and orchestration
-- Nginx configuration and SSL/TLS setup
-- CI/CD pipelines with GitHub Actions
-- Cloud deployment (Hetzner, GCP, Heroku)
-
-### 📱 Cross-Platform Development
-- React Native mobile apps (iOS/Android)
-- Progressive Web Apps (PWA)
-- Chrome extensions
-- Desktop applications with Electron
-
-### 🎨 Advanced UI/UX
-- 3D graphics with Three.js
-- Complex animations with Framer Motion
-- Data visualization (Recharts, Chart.js)
-- Component libraries (shadcn/ui, Radix UI)
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-**Let's build something amazing together!**
-
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-*Open to freelance projects and collaboration opportunities*
-
-</div>
+Je suis ouvert aux opportunités de développeur Front-end / Full Stack (Next.js, React Native).
+Le plus simple : le [formulaire de contact de mon portfolio](https://marcchesnel.vercel.app#contact).
