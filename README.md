@@ -6,7 +6,7 @@
 
 *Je conçois, développe, teste et déploie des applications web et mobiles, de la discovery à la production.*
 
-[**Portfolio**](https://marcchesnel.vercel.app) · [**Étude de cas Ronde**](https://marcchesnel.vercel.app/projets/ronde)
+[**Portfolio**](https://marcchesnel.com) · [**Étude de cas Ronde**](https://marcchesnel.com/projets/ronde)
 
 </div>
 
@@ -31,7 +31,7 @@ Un back-office Next.js pour la responsable planning, une app React Native (Expo)
 
 `Next.js 16` `React Native` `Expo` `TypeScript` `GraphQL` `Prisma` `PostgreSQL` `Playwright` `Turborepo`
 
-👉 [Code et documentation](https://github.com/mcpolo78/ronde) · [Étude de cas](https://marcchesnel.vercel.app/projets/ronde) · [Démo en ligne](https://ronde-app.vercel.app) · [5 fiches de décision d'architecture](https://github.com/mcpolo78/ronde/tree/main/docs/adr)
+👉 [Code et documentation](https://github.com/mcpolo78/ronde) · [Étude de cas](https://marcchesnel.com/projets/ronde) · [Démo en ligne](https://ronde-app.vercel.app) · [5 fiches de décision d'architecture](https://github.com/mcpolo78/ronde/tree/main/docs/adr)
 
 ---
 
@@ -65,11 +65,11 @@ Un back-office Next.js pour la responsable planning, une app React Native (Expo)
 | **Restaurants Deux-Sèvres** | Annuaire des meilleurs restaurants du département | Next.js | [Démo](https://restaurants-deux-sevres.vercel.app) · [Code](https://github.com/mcpolo78/restaurants-deux-sevres) |
 | **Blind test** | Blind test de dessins animés | Vue | [Démo](https://blind-test-mc.vercel.app) · [Code](https://github.com/mcpolo78/blind-test) |
 
-Le reste est sur mon [portfolio](https://marcchesnel.vercel.app#portfolio).
+Le reste est sur mon [portfolio](https://marcchesnel.com#portfolio).
 
 ---
 
 ## 📫 Me contacter
 
 Je suis ouvert aux opportunités de développeur Front-end / Full Stack (Next.js, React Native).
-Le plus simple : [LinkedIn](https://www.linkedin.com/in/marc-che/), ou la [section contact de mon portfolio](https://marcchesnel.vercel.app/#contact).
+Le plus simple : [LinkedIn](https://www.linkedin.com/in/marc-che/), ou la [section contact de mon portfolio](https://marcchesnel.com/#contact).
