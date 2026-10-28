@@ -33,8 +33,8 @@ Un back-office Next.js pour la planification, une app React Native (Expo) pour l
 
 ### Console IoT : supervision d'équipements en temps réel
 
-Carte Leaflet des balises, télémétrie poussée en direct par WebSockets, authentification JWT et rôles.
-`Next.js` `NestJS` `Socket.IO` `Prisma` `PostgreSQL` `Docker`
+API **NestJS** (modules, guards JWT et rôles, gateway WebSocket) et front Next.js : carte Leaflet des balises, télémétrie poussée en direct.
+`NestJS` `Next.js` `Socket.IO` `Prisma` `PostgreSQL` `Docker`
 
 👉 [Démo](https://console-iot-self.vercel.app) · [Code](https://github.com/mcpolo78/console-iot)
 
