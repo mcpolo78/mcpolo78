@@ -86,13 +86,13 @@ Je travaille en Scrum, avec Git (GitHub, GitLab), revue de code et Claude Code a
 
 | Projet | Description | Technologies | Liens |
 |---|---|---|---|
+| **VineCore** | Plateforme SaaS de suivi sanitaire du vignoble, développée en CDI dans une agritech (environ 100 utilisateurs) | React, Next.js, TypeScript | [Démo reconstituée](https://vinecore-demo.vercel.app) |
+| **Le Plus Grand Quiz de France** | Recréation en PWA du jeu TF1 de 2009 (+1 million de joueurs) : défis entre amis, quiz du jour, classements | TypeScript, Supabase, Vitest | [Jouer](https://quiz-de-france.vercel.app) |
+| **DreamExplorer** | Galerie d'images créées par IA, projet de fin de formation 3W Academy (2022), refondu en 2026 | Next.js, Supabase, Vitest | [Démo](https://dream-explorer.vercel.app) |
 | **Service desk IT automatisé** | Jira Service Management où une IA locale trie les tickets et répond depuis une base de connaissances | Python, Ollama | [Code](https://github.com/mcpolo78/automatisation-jira-service-desk) |
-| **AI Knowledge Tutor** | Transforme des documents (PDF, DOCX, Markdown) en résumés, quiz, flashcards et chatbot Q&A | React, FastAPI, OpenAI | [Code](https://github.com/mcpolo78/ai-knowledge-tutor) |
-| **Data Visualizer** | Import CSV/Excel et suggestions de graphiques par GPT-4o-mini | FastAPI, OpenAI, Pandas | [Code](https://github.com/mcpolo78/data-visualiser) |
-| **DreamExplorer** | Galerie d'images générées par IA (projet de fin de formation 3WA, 2022) | TypeScript, Supabase | [Démo](https://dream-explorer.vercel.app) |
-| **Stellar Field** | Galaxie de particules 3D interactive | React Three Fiber | [Démo](https://stellar-field.vercel.app) · [Code](https://github.com/mcpolo78/stellar-field) |
+| **Support IT vocal + chatbot** | Assistant de support à l'écrit ou à la voix, qui cite sa source et propose un ticket, 100 % en local | Python, faster-whisper, Piper | [Code](https://github.com/mcpolo78/LLM-Support-IT-vocal-chatbot-) |
 
-Le reste est sur mon [portfolio](https://marcchesnel.com/#projets).
+Détails et captures sur mon [portfolio](https://marcchesnel.com/#projets).
 
 ---
 
