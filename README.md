@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Développeur front-end React · TypeScript · Next.js
+### Développeur full-stack React · TypeScript · Next.js
 
 *J'aime les interfaces soignées, accessibles et testées, et je sais aussi faire tourner l'API et la base derrière (NestJS, GraphQL, PostgreSQL).*
 
