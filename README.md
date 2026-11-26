@@ -38,6 +38,17 @@ Un assistant qui interroge un portefeuille de crédits et de leasings via un ser
 
 👉 [Démo](https://portefeuille-ia-demo.vercel.app) · [Code](https://github.com/mcpolo78/portefeuille-ia-demo)
 
+### Agent de support IT : des tickets traités de bout en bout, sous contrôle humain
+
+Un agent qui qualifie le ticket, retrouve la procédure, répond ou escalade, et attend la validation d'un technicien avant toute action sensible.
+`Python` `FastAPI` `LangGraph` `MCP` `pgvector` `Azure OpenAI` `React` `GitLab CI`
+
+- ⏸️ **Validation humaine** : le graphe **LangGraph** se met en pause sur les actions sensibles, le serveur **MCP** exige un jeton de validation à usage unique
+- 🔎 **RAG hybride** : pgvector + plein texte (fusion RRF), citations vérifiées ; données personnelles masquées avant le modèle
+- 🧪 **Évalué** : banc de 50 cas dans la CI GitLab (100 % de bonnes décisions), déployé sur Azure Container Apps et Static Web Apps
+
+👉 [Démo](https://agent-support.marcchesnel.com) · [Code (GitLab)](https://gitlab.com/mcpolo/agent-support-it)
+
 ### Granulo : devis instantané de granulats livrés sur chantier
 
 Le moteur croise sites d'extraction, rotations de camions et indexation gazole pour classer les meilleures offres. Un assistant transforme « allée de 12 × 3 m » en produit et tonnage, recalculés côté serveur.
